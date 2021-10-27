@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/material_crud/static/css/main.dc895c81.chunk.css",
+    "main.js": "/material_crud/static/js/main.8d2714ce.chunk.js",
+    "main.js.map": "/material_crud/static/js/main.8d2714ce.chunk.js.map",
+    "runtime-main.js": "/material_crud/static/js/runtime-main.5bf0c142.js",
+    "runtime-main.js.map": "/material_crud/static/js/runtime-main.5bf0c142.js.map",
+    "static/js/2.54009004.chunk.js": "/material_crud/static/js/2.54009004.chunk.js",
+    "static/js/2.54009004.chunk.js.map": "/material_crud/static/js/2.54009004.chunk.js.map",
+    "static/js/3.fedf94ab.chunk.js": "/material_crud/static/js/3.fedf94ab.chunk.js",
+    "static/js/3.fedf94ab.chunk.js.map": "/material_crud/static/js/3.fedf94ab.chunk.js.map",
+    "index.html": "/material_crud/index.html",
+    "static/css/main.dc895c81.chunk.css.map": "/material_crud/static/css/main.dc895c81.chunk.css.map",
+    "static/js/2.54009004.chunk.js.LICENSE.txt": "/material_crud/static/js/2.54009004.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bf0c142.js",
+    "static/js/2.54009004.chunk.js",
+    "static/css/main.dc895c81.chunk.css",
+    "static/js/main.8d2714ce.chunk.js"
+  ]
+}
